@@ -1,5 +1,5 @@
 Questions and Answers of NoSQL database Assignment 1 
 Format is as follows-
-  Question
-  mongosh output 
-  written answer
+  1) Question
+  2) mongosh output 
+  3) written answer
